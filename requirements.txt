@@ -1,4 +1,6 @@
 numpy
 dash==1.16.0
 scipy
+pandas
+plotly
 jupyter-dash
