@@ -1,3 +1,6 @@
+jupyterlab>=2.0
+notebook>=6.0
+jupyter_server_proxy
 dash
 requests
 flask
@@ -5,9 +8,9 @@ retrying
 ipython
 ipykernel
 ansi2html
-numpy
-scipy
+#numpy
+#scipy
 #pandas
 #plotly
 #jupyter-dash
-scikit-learn
+#scikit-learn
