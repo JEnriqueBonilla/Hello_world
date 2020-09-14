@@ -1,5 +1,5 @@
 numpy
-dash==1.16.0
+dash
 scipy
 pandas
 plotly
