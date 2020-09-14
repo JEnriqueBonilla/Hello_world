@@ -1,2 +1,4 @@
-pandas
-jupyterlab
+numpy
+dash==1.16.0
+scipy
+jupyter-dash
