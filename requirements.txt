@@ -1,7 +1,13 @@
-numpy
 dash
+requests
+flask
+retrying
+ipython
+ipykernel
+ansi2html
+numpy
 scipy
-pandas
-plotly
-jupyter-dash
+#pandas
+#plotly
+#jupyter-dash
 scikit-learn
